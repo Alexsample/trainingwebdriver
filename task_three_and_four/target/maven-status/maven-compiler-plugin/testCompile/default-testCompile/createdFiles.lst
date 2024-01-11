@@ -1,0 +1,14 @@
+com\epam\webdriver\aleksandrgostev\testdata\ParametersByDataProvider.class
+com\epam\webdriver\aleksandrgostev\test\CloudGoogleHomePageTest.class
+com\epam\webdriver\aleksandrgostev\pages\googlecloud\GoogleCloudPricingCalculatorPage.class
+com\epam\webdriver\aleksandrgostev\pages\googlecloud\EstimatePage.class
+com\epam\webdriver\aleksandrgostev\pages\tempmail\TempMailPage.class
+com\epam\webdriver\aleksandrgostev\utilities\JSExecutorUtils.class
+com\epam\webdriver\aleksandrgostev\pages\googlecloud\EmailYourEstimatePage.class
+com\epam\webdriver\aleksandrgostev\pages\tempmail\LetterPage.class
+com\epam\webdriver\aleksandrgostev\utilities\TestListener.class
+com\epam\webdriver\aleksandrgostev\test\TempMailPageTest.class
+com\epam\webdriver\aleksandrgostev\pages\googlecloud\CloudGoogleHomePage.class
+com\epam\webdriver\aleksandrgostev\driver\DriverManager.class
+com\epam\webdriver\aleksandrgostev\pages\base\BasePage.class
+com\epam\webdriver\aleksandrgostev\test\BaseTest.class

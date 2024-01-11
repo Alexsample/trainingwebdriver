@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-07T23:30:22 UZT" name="Run tests" finished-at="2023-01-07T23:31:08 UZT" duration-ms="45027">
+    <groups>
+    </groups>
+    <test started-at="2023-01-07T23:30:22 UZT" name="verify data" finished-at="2023-01-07T23:31:08 UZT" duration-ms="45027">
+      <class name="com.epam.webdriver.aleksandrgostev.test.CloudGoogleHomePageTest">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.epam.webdriver.aleksandrgostev.test.CloudGoogleHomePageTest@52bf72b5]" started-at="2023-01-07T23:30:23 UZT" name="browserSetup" finished-at="2023-01-07T23:30:24 UZT" duration-ms="1842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="checkDatacenterLocation(java.lang.String,int,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.epam.webdriver.aleksandrgostev.test.CloudGoogleHomePageTest@52bf72b5]" started-at="2023-01-07T23:30:24 UZT" name="checkDatacenterLocation" description="Verify Datacenter Location field" finished-at="2023-01-07T23:31:07 UZT" duration-ms="42857" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Google Cloud Platform Pricing Calculator]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[free]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Spot]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[CP-COMPUTEENGINE-VMIMAGE-N1-STANDARD-8]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[NVIDIA_TESLA_P100]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[3x375]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[europe-west3]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Frankfurt]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[n1-standard-8]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[1,745.12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDatacenterLocation -->
+        <test-method is-config="true" signature="browserTearDown()[pri:0, instance:com.epam.webdriver.aleksandrgostev.test.CloudGoogleHomePageTest@52bf72b5]" started-at="2023-01-07T23:31:07 UZT" name="browserTearDown" finished-at="2023-01-07T23:31:08 UZT" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTearDown -->
+      </class> <!-- com.epam.webdriver.aleksandrgostev.test.CloudGoogleHomePageTest -->
+    </test> <!-- verify data -->
+  </suite> <!-- Run tests -->
+</testng-results>
